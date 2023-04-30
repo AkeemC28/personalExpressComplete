@@ -1,4 +1,4 @@
-(public/ice\ cream.jpeg)
+<img src = '/ice\ cream.jpeg">
 
 ## Installation
 
