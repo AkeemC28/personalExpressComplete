@@ -1,0 +1,30 @@
+body{
+  background: url('/ice\ cream.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+html{
+  font-family: "Cherry Cream Soda", sans-serif;
+}
+input{
+  font-family: "Cherry Cream Soda", sans-serif;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(170, 86, 66);
+  border: 1px solid rgb(253, 168, 63);
+}
+button{
+  border-radius: 5px;
+  background-color: rgb(252, 245, 225);
+  border: 1px solid rgb(253, 168, 63);
+  color: rgb(170, 86, 66);
+  font-family: "Cherry Cream Soda", sans-serif;
+  width: 6%;
+}
+h1{
+  color: rgb(252, 245, 225);
+  text-shadow: 4px 4px rgb(253, 168, 63);
+}
+
+
