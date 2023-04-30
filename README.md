@@ -1,4 +1,4 @@
-![21 Savage](public/21savage.jpg)
+(public/ice\ cream.jpeg)
 
 ## Installation
 
@@ -7,5 +7,4 @@
 
 ## Usage
 
-1. run `npm run savage`
-2. Navigate to `localhost:3000`
+1. Navigate to `localhost:2000`
